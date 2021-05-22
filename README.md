@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jamal Alaayq, iOS Developer.
 ##### I'm currently working on Delivery App.
 
-<a href="https://www.linkedin.com/in/gamalal3yk/">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/gamalal3yk">LinkedIn</a> 
 <br/>
 <a href="https://twitter.com/jamalelayeq">Twitter</a> 
 <br/>
