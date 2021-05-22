@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Jamal Alaayq, iOS Developer.
 ##### I'm currently working on Delivery App.
 
-<a href="https://www.linkedin.com/in/gamalal3yk">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/gamalal3yk" target="_blank">LinkedIn</a> 
 <br/>
-<a href="https://twitter.com/jamalelayeq">Twitter</a> 
+<a href="https://twitter.com/jamalelayeq" target="_blank">Twitter</a> 
 <br/>
 <!--
 **jamalalayq/jamalalayq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
