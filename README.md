@@ -1,7 +1,10 @@
-### Hi there 👋, I am Jamal Alayq, iOS Developer.
+### Hi there 👋, I'm Jamal Alaayq, iOS Developer.
+##### I'm currently working on Delivery App.
 
-
-
+<a href="https://www.linkedin.com/in/gamalal3yk/">LinkedIn</a> 
+<br/>
+<a href="https://twitter.com/jamalelayeq">Twitter</a> 
+<br/>
 <!--
 **jamalalayq/jamalalayq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href=""></a> 
+<br/>
+
 -->
